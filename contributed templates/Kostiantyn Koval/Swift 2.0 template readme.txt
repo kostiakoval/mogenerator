@@ -1,0 +1,3 @@
+Swift 2.0 mogenerator template
+-------------------------
+The swift 2.0 require importing Foundation when using @objc attribute
